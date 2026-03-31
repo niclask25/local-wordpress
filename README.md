@@ -68,7 +68,7 @@ This will start:
 
 - MySQL database (`db`)
 - WordPress (`wordpress`)
-- phpMyAdmin (optional)
+- phpMyAdmin (`phpmyadmin`)
 
 ---
 
