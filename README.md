@@ -52,8 +52,8 @@ docker compose version
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/niclask25/local-wordpress.git
+cd local-wordpress
 ```
 
 ---
