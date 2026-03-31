@@ -4,6 +4,25 @@ This project provides a complete local WordPress development environment using D
 
 ---
 
+## 📚 Table of Contents
+
+- [🐳 Local WordPress Development with Docker](#-local-wordpress-development-with-docker)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [📦 Features](#-features)
+  - [📁 Project Structure](#-project-structure)
+  - [⚙️ Prerequisites](#️-prerequisites)
+  - [🚀 Getting Started](#-getting-started)
+    - [1. Clone the repository](#1-clone-the-repository)
+    - [2. Start the environment](#2-start-the-environment)
+    - [3. Access WordPress](#3-access-wordpress)
+  - [🧪 Optional: Access phpMyAdmin](#-optional-access-phpmyadmin)
+  - [🛑 Stopping the Environment](#-stopping-the-environment)
+  - [🔄 Restarting](#-restarting)
+  - [💾 Data Persistence](#-data-persistence)
+  - [🧹 Reset (WARNING: deletes all data)](#-reset-warning-deletes-all-data)
+
+---
+
 ## 📦 Features
 
 - WordPress (6.9.4)
